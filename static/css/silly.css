@@ -7,3 +7,12 @@ body {
     text-align: left;
     max-width: 500px;
 }
+
+.navbar-custom {
+    font-size: 14pt;
+}
+
+.navbar-brand {
+    font-size: 20pt;
+}
+
